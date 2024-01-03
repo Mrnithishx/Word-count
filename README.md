@@ -32,7 +32,7 @@ with open(fname,"r") as f:
   print("Number of words:",num_words)
 
 ### OUTPUT:
-![293364581-b48e8e75-e480-466f-b3e0-f9af2b6a88ea](https://github.com/Mrnithishx/Word-count/assets/148201573/33a78f8a-5ee8-4b32-9eef-0dce00d99531)
+(https://github.com/Mrnithishx/Word-count/assets/148201573/33a78f8a-5ee8-4b32-9eef-0dce00d99531)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
