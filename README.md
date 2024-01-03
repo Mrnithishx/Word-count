@@ -18,7 +18,7 @@ Finding the given length of the words by using len() fuction.
 ### Step 6: 
 Calling the function and Printing the number of words.
 ## PROGRAM:
-'''
+```python
 Program to count the no. of words in a file.
 Developed by:NITHISH MD
 Reg.no:23009587
@@ -31,8 +31,9 @@ with open(fname,"r") as f:
     num_words+=len(words)
   print("Number of words:",num_words)
 
+```
 ### OUTPUT:
-(https://github.com/Mrnithishx/Word-count/assets/148201573/33a78f8a-5ee8-4b32-9eef-0dce00d99531)
+![293364581-b48e8e75-e480-466f-b3e0-f9af2b6a88ea](https://github.com/Mrnithishx/Word-count/assets/148201573/08b54a3f-6b6a-48ac-95a5-5d919b1d2805)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
